@@ -19,14 +19,12 @@
 
 <br><br>
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING - FIXED HEIGHT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=%F0%9F%94%AC+Building+Intelligent+Healthcare+Systems;%F0%9F%A7%A0+Exploring+Human-AI+Interaction;%F0%9F%9A%80+Turning+Ideas+into+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=%F0%9F%94%AC+Building+Intelligent+Healthcare+Systems;%F0%9F%A7%A0+Exploring+Human-AI+Interaction;%F0%9F%9A%80+Turning+Ideas+into+AI+Solutions" alt="Typing SVG" />
 </a>
 
-<br>
-
-<br><br><br>
+<br><br>
 
 <!-- SCROLL DOWN INDICATOR -->
 <img src="https://img.shields.io/badge/▼_SCROLL_DOWN_▼-00d4ff?style=for-the-badge&labelColor=0d1117"/>
@@ -53,6 +51,21 @@
 🏆 **1st Place Winner** - Microsoft Hack with Chicago
 
 <br clear="right"/>
+
+---
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
