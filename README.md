@@ -3,8 +3,8 @@
   # Hi, I'm Laxmi Sai Maneesh Reddy Jupalle! 👋
 
   <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160" />
   </a>
 
   ### 🎓 MS in Computer Science @ UIC (Expected May 2026)
@@ -48,8 +48,8 @@
   
 ### 📫 Let's Connect
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](ADD_YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Ljupal@uic.edu)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](ADD_YOUR_PORTFOLIO_URL_HERE)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://buildwithmaneesh.com)
 
 </div>
