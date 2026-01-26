@@ -3,10 +3,16 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MANEESH%20JUPALLE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20MS%20CS%20@%20UIC&descAlignY=55&descSize=20"/>
 
-<!-- ANIMATED WAVE -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<!-- CONTRIBUTION SNAKE RIGHT UNDER HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-<!-- SOCIAL BADGES WITH GLOW EFFECT -->
+<br>
+
+<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,6 +34,17 @@
 
 <!-- PROFILE TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=ManeeshJupalle&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+<br><br>
+
+<!-- SCROLL DOWN INDICATOR -->
+<a href="#-about-me">
+  <img src="https://i.imgur.com/dJKvMqw.gif" width="40"/>
+</a>
+
+<p><strong>Scroll Down</strong></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
@@ -59,16 +76,62 @@
 
 ## 💫 Tech Universe
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,aws,gcp&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git,vscode&theme=dark" />
+
+<!-- ROW 1: Languages -->
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"/>
 
 <br><br>
 
-<!-- ANIMATED PROGRESS BARS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117" height="200"/>
+<!-- ROW 2: AI/ML & Frameworks -->
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="60"/>
+
+<br><br>
+
+<!-- ROW 3: Backend & Cloud -->
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="60"/>
+
+<br><br>
+
+<!-- ROW 4: Databases & Tools -->
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=neo4j&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="60"/>
+
+<br><br><br>
+
+<!-- BIGGER DONUT CHART -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&langs_count=8" height="350"/>
 
 </div>
 
@@ -79,7 +142,13 @@
 
 ## ⚡ Featured Projects
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
+
 </div>
+
+<br>
 
 <div align="center">
 <table>
@@ -153,38 +222,14 @@
 
 ## 📊 GitHub Analytics
 
+<br>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&theme=algolia&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
-<br>
+<br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=00d4ff" />
-
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<!-- SPOTIFY / NOW PLAYING -->
-<div align="center">
-
-## 🎧 Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
@@ -195,7 +240,11 @@
 
 ## ✨ Profile Highlights
 
+<br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=algolia" width="98%"/>
+
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManeeshJupalle&theme=algolia" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManeeshJupalle&theme=algolia" width="32%"/>
@@ -212,12 +261,18 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:Ljupal@uic.edu">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571571.png"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://buildwithmaneesh.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
