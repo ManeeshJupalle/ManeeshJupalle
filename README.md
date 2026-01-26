@@ -37,14 +37,15 @@
 
 <br><br>
 
-<!-- SCROLL DOWN INDICATOR -->
+<!-- SCROLL DOWN INDICATOR - USING RELIABLE SVG -->
 <a href="#-about-me">
-  <img src="https://i.imgur.com/dJKvMqw.gif" width="40"/>
+  <img src="https://img.shields.io/badge/⬇️_SCROLL_DOWN-0d1117?style=for-the-badge&logoColor=white"/>
 </a>
 
-<p><strong>Scroll Down</strong></p>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<!-- ANIMATED LINE DIVIDER - USING CAPSULE RENDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
 
 </div>
 
@@ -141,10 +142,6 @@
 <div align="center">
 
 ## ⚡ Featured Projects
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
 
 </div>
 
@@ -261,20 +258,16 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300"/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:Ljupal@uic.edu">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571571.png"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://buildwithmaneesh.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
 </a>
 
 <br><br>
