@@ -42,8 +42,6 @@
 
 📊 **GPA:** 3.80 | 🎯 **Graduating:** May 2026
 
-🔬 **Graduate Research Assistant** @ Human-AI Interaction Lab
-
 🏥 **Building AI** for Clinical Healthcare Applications
 
 🔍 **Perplexity Campus Partner** - AI-Driven Search Advocate
