@@ -1,6 +1,6 @@
 # Hi, I'm Laxmi Sai Maneesh Reddy Jupalle! 👋
 
-### 🎓 Master of Science in Computer Science Student @ UIC (Expected May 2026)
+### 🎓 Master of Science in Computer Science Student @ UIC (May 2026)
 I am an aspiring Software Engineer and AI Researcher focused on building intelligent systems that bridge the gap between complex data and human interaction. Currently maintaining a **3.80 GPA** at the University of Illinois Chicago.
 
 ---
@@ -31,5 +31,5 @@ I am an aspiring Software Engineer and AI Researcher focused on building intelli
 
 ### 📫 Let's Connect
 * **Email:** [Ljupal@uic.edu](mailto:Ljupal@uic.edu)
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Link to your GitHub Pages site]
+* **LinkedIn:** [https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/]
+* **Portfolio:** [https:buildwithmaneesh.com]
