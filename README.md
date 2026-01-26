@@ -1,181 +1,308 @@
+<!-- WELCOME TO MY DIGITAL REALM -->
+<!-- README.md - Last compiled: 2025 -->
+<!-- WARNING: Side effects may include mass_follow() and star_repos() -->
+
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maneesh%20Reddy%20Jupalle&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=MS+in+Computer+Science+%40+UIC;AI+Researcher+%26+Software+Engineer;Building+Intelligent+Healthcare+Systems;HCI+%7C+LLMs+%7C+Clinical+AI)](https://git.io/typing-svg)
+```
+███╗   ███╗ █████╗ ███╗   ██╗███████╗███████╗███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗ ██║█████╗  █████╗  ███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══╝  ██╔══╝  ╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║███████╗███████╗███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-  <a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Ljupal@uic.edu">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://buildwithmaneesh.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ManeeshJupalle&style=for-the-badge&color=blueviolet" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=%24+whoami;AI+Researcher+%7C+Software+Engineer+%7C+CS+Grad+Student;%24+cat+interests.txt;HCI+%E2%94%82+LLMs+%E2%94%82+Clinical+AI+%E2%94%82+Intelligent+Systems;%24+echo+%24STATUS;Currently+building+the+future+of+healthcare+AI...)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=ManeeshJupalle&style=flat-square&color=00ff00&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/ManeeshJupalle?style=flat-square&color=00ff00&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/ManeeshJupalle?style=flat-square&color=00ff00&label=TOTAL+STARS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```python
+# ~/maneesh/about_me.py
 
-```yaml
-name: Laxmi Sai Maneesh Reddy Jupalle
-location: Chicago, IL
-education:
-  degree: MS in Computer Science
-  university: University of Illinois at Chicago
-  gpa: 3.80
-  graduation: May 2026
+class SoftwareEngineer:
+    """
+    A passionate AI researcher and software engineer.
+    Currently pursuing MS in Computer Science @ UIC.
+    """
+    
+    def __init__(self):
+        self.name = "Laxmi Sai Maneesh Reddy Jupalle"
+        self.role = "Graduate Research Assistant"
+        self.location = "Chicago, IL"
+        self.education = {
+            "degree": "MS in Computer Science",
+            "university": "University of Illinois at Chicago",
+            "gpa": 3.80,
+            "expected_graduation": "May 2026"
+        }
+        self.research_interests = [
+            "Human-Computer Interaction",
+            "Large Language Models", 
+            "Clinical AI Systems",
+            "Intelligent Healthcare Applications"
+        ]
+        
+    def get_current_roles(self) -> list[str]:
+        return [
+            "🔬 Graduate Research Assistant @ Human-AI Interaction Lab",
+            "🏥 Graduate Assistant @ UIC Disability & Human Development", 
+            "🔍 Perplexity Campus Partner"
+        ]
+    
+    def get_daily_routine(self) -> str:
+        return """
+        while alive:
+            eat()
+            sleep()
+            code()
+            research()
+            repeat()
+        """
 
-current_roles:
-  - Graduate Research Assistant @ Human-AI Interaction Lab
-  - Graduate Assistant @ UIC Disability & Human Development
-  - Perplexity Campus Partner
-
-interests: [Human-Computer Interaction, Clinical AI, LLMs, Intelligent Systems]
+me = SoftwareEngineer()
 ```
 
 ---
 
-## 🏆 Highlights
+<div align="center">
+
+## `> neofetch --achievements`
+
+</div>
+
+```
+                    ████████████████                    maneesh@uic
+                ████░░░░░░░░░░░░░░████                  -----------
+              ██░░░░░░░░░░░░░░░░░░░░░░██                OS: Human 2.0 (Chicago Build)
+            ██░░░░░░░░░░░░░░░░░░░░░░░░░░██              Host: University of Illinois Chicago
+          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██            Kernel: AI/ML v4.0
+          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██            Uptime: 24+ years
+        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          ─────────────────────────────
+        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          🥇 1st Place - MS Hack with Chicago
+        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          🔬 2x Research Positions @ UIC
+        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          🤝 Perplexity Campus Partner
+        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██          📊 3.80 GPA
+          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██            🏆 Award-Winning AI Research
+          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██            ─────────────────────────────
+            ██░░░░░░░░░░░░░░░░░░░░░░░░░░██              Shell: Python/TypeScript
+              ██░░░░░░░░░░░░░░░░░░░░░░██                DE: VS Code + Vim
+                ████░░░░░░░░░░░░░░████                  Theme: Dark Mode Forever
+                    ████████████████                    Coffee: ██████████████ 100%
+```
+
+---
+
+<div align="center">
+
+## `> cat /etc/tech_stack.conf`
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-**🥇 1st Place** - Microsoft Hack with Chicago  
-*Golden Bridge: AI Triage System*
-
-**🔬 Research** - Clinical AI & HCI  
-*AI tools for healthcare report generation*
+### ⚡ Languages
+```json
+{
+  "proficient": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "SQL"
+  ],
+  "familiar": [
+    "C++",
+    "Java",
+    "Bash"
+  ]
+}
+```
 
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
-**🤝 Perplexity Campus Partner**  
-*Representing AI-driven search at UIC*
+### 🧠 AI/ML
+```json
+{
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "LangChain",
+    "HuggingFace"
+  ],
+  "specialties": [
+    "LLMs",
+    "RAG",
+    "CNNs",
+    "NLP"
+  ]
+}
+```
 
-**📊 3.80 GPA**  
-*MS Computer Science*
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Web & Cloud
+```json
+{
+  "frontend": [
+    "React",
+    "Next.js",
+    "Tailwind"
+  ],
+  "backend": [
+    "FastAPI",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "cloud": [
+    "AWS",
+    "Docker",
+    "GCP"
+  ]
+}
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI/ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Web & Cloud**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚑 Golden Bridge</h3>
-<p align="center">
-  <a href="https://github.com/ManeeshJupalle/golden-bridge">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p><strong>AI Triage System</strong> - Multi-agent orchestration using LangChain for automated emergency triage with real-time vitals monitoring.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square"/>
-<img src="https://img.shields.io/badge/-1st_Place-gold?style=flat-square"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">📄 Insurease</h3>
-<p align="center">
-  <a href="https://github.com/ManeeshJupalle/insurease">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p><strong>Doc Analysis Platform</strong> - RAG-based system using Qdrant and Neo4j for comparing complex insurance policies.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-RAG-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Qdrant-24292e?style=flat-square"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 ResearchAI</h3>
-<p align="center">
-  <a href="https://github.com/ManeeshJupalle/research-ai">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p><strong>Academic Assistant</strong> - Full-stack AI assistant for paper summarization and interactive Q&A on research papers.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/-LLMs-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">👁️ Diabetic Detection</h3>
-<p align="center">
-  <a href="https://github.com/ManeeshJupalle/diabetic-retinopathy">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p><strong>Medical AI</strong> - Award-winning CNN research for diabetic retinopathy classification achieving 94.5% accuracy.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-CNN-EE4C2C?style=flat-square"/>
-<img src="https://img.shields.io/badge/-94.5%25_Accuracy-success?style=flat-square"/>
-</p>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
 
 <div align="center">
   
-  **💡 Open to Research Collaborations & Opportunities in AI/ML**
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-  
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00ff00)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=00ff00)
+![PyTorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff00)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=00ff00)
+![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00)
+![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00)
+![Neo4j](https://img.shields.io/badge/neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=00ff00)
+
 </div>
+
+---
+
+<div align="center">
+
+## `> ls -la ~/projects/`
+
+</div>
+
+```
+drwxr-xr-x  maneesh  staff   projects/
+├── 🚑 golden-bridge/        [1ST PLACE WINNER]
+│   ├── README.md            "AI Triage System"
+│   ├── agents/              Multi-agent orchestration with LangChain
+│   ├── vitals/              Real-time vitals monitoring
+│   └── tech: [LangChain, FastAPI, WebSockets]
+│
+├── 📄 insurease/            [RAG APPLICATION]
+│   ├── README.md            "Insurance Policy Analyzer"  
+│   ├── rag/                 Retrieval-Augmented Generation pipeline
+│   ├── graph/               Neo4j knowledge graph
+│   └── tech: [RAG, Qdrant, Neo4j, Python]
+│
+├── 🤖 research-ai/          [FULL-STACK AI]
+│   ├── README.md            "Academic Research Assistant"
+│   ├── frontend/            React + TypeScript UI
+│   ├── llm/                 Paper summarization & Q&A
+│   └── tech: [React, FastAPI, LLMs, Vector DB]
+│
+└── 👁️ diabetic-detection/   [AWARD WINNING]
+    ├── README.md            "Medical Imaging AI"
+    ├── models/              CNN architectures
+    ├── accuracy: 94.5%      
+    └── tech: [PyTorch, CNN, Medical Imaging]
+```
+
+<div align="center">
+
+[![Golden Bridge](https://img.shields.io/badge/🚑_Golden_Bridge-View_Code-00ff00?style=for-the-badge&labelColor=000)](https://github.com/ManeeshJupalle/golden-bridge)
+[![Insurease](https://img.shields.io/badge/📄_Insurease-View_Code-00ff00?style=for-the-badge&labelColor=000)](https://github.com/ManeeshJupalle/insurease)
+[![ResearchAI](https://img.shields.io/badge/🤖_ResearchAI-View_Code-00ff00?style=for-the-badge&labelColor=000)](https://github.com/ManeeshJupalle/research-ai)
+[![Diabetic Detection](https://img.shields.io/badge/👁️_Diabetic_Detection-View_Code-00ff00?style=for-the-badge&labelColor=000)](https://github.com/ManeeshJupalle/diabetic-retinopathy)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> git log --oneline --graph`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="165" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&area_color=00ff0020" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ./contact --init`
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   $ echo "Let's build something amazing together"                │
+│                                                                  │
+│   > LinkedIn ............. linkedin.com/in/maneesh-jupalle       │
+│   > Email ................ Ljupal@uic.edu                        │
+│   > Portfolio ............ buildwithmaneesh.com                  │
+│   > Location ............. Chicago, IL                           │
+│                                                                  │
+│   STATUS: Open to Research Collaborations & AI/ML Opportunities  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/─────_LinkedIn_─────-000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/)
+[![Email](https://img.shields.io/badge/─────_Email_─────-000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:Ljupal@uic.edu)
+[![Portfolio](https://img.shields.io/badge/─────_Portfolio_─────-000?style=for-the-badge&logo=googlechrome&logoColor=00ff00)](https://buildwithmaneesh.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "Any sufficiently advanced technology is indistinguishable from magic"  ║
+║                                                    - Arthur C. Clarke     ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+
+</div>
+
+<!-- 
+    _____ _   _    _    _   _ _  __ __   _____  _   _ 
+   |_   _| | | |  / \  | \ | | |/ / \ \ / / _ \| | | |
+     | | | |_| | / _ \ |  \| | ' /   \ V / | | | | | |
+     | | |  _  |/ ___ \| |\  | . \    | || |_| | |_| |
+     |_| |_| |_/_/   \_\_| \_|_|\_\   |_| \___/ \___/ 
+                                                      
+   For visiting my profile! Star a repo if you found something cool ⭐
+-->
