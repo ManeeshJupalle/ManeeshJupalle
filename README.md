@@ -3,14 +3,8 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MANEESH%20JUPALLE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20MS%20CS%20@%20UIC&descAlignY=55&descSize=20"/>
 
-<!-- CONTRIBUTION SNAKE RIGHT UNDER HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
 <br>
+
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
@@ -32,20 +26,8 @@
 
 <br>
 
-<!-- PROFILE TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=ManeeshJupalle&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-<br><br>
-
-<!-- SCROLL DOWN INDICATOR - USING RELIABLE SVG -->
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/⬇️_SCROLL_DOWN-0d1117?style=for-the-badge&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- ANIMATED LINE DIVIDER - USING CAPSULE RENDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+<!-- SCROLL DOWN INDICATOR -->
+<img src="https://img.shields.io/badge/▼_SCROLL_DOWN_▼-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
