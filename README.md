@@ -7,7 +7,7 @@ I am an aspiring Software Engineer and AI Researcher focused on building intelli
 
 ### 🚀 Professional Highlights
 * **Perplexity Campus Partner:** Representing the future of AI-driven search at UIC.
-* **Graduate Assistant:** Developing AI tools for clinical report generation within the Department of Disability and Human Development.
+* **Graduate Assistant:** Developing AI tools for clinical report generation within the Department of Applied Health Sciences at UIC.
 * **VMware vExpert 2023:** Recognized for technical evangelism and expertise in virtualization and cloud infrastructure.
 * **1st Place Winner:** Microsoft-Sponsored Hack with Chicago for "Golden Bridge," an AI-driven ambulance triage system.
 
