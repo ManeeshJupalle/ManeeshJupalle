@@ -26,7 +26,7 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 
 - MS in Computer Science at **University of Illinois Chicago**
 - GPA: **3.80**
-- Graduating: **May 2026**
+- Graduated: **May 2026**
 - Building AI systems for **clinical healthcare, research automation, and document intelligence**
 - **Perplexity Campus Partner**
 - **1st Place Winner — Microsoft Hack with Chicago**
