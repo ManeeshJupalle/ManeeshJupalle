@@ -33,6 +33,41 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&theme=github-compact&hide_border=true&area=true" />
+
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=github_dark" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=github_dark&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&theme=github-dark-blue&hide_border=true" />
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManeeshJupalle&theme=github_dark" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManeeshJupalle&theme=github_dark" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeeshJupalle&theme=github_dark&utcOffset=-5" />
+
+</div>
+
+---
+
 ## Featured Work
 
 <table>
@@ -118,55 +153,6 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 
 ### Databases & Tools  
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git&theme=dark" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=github_dark&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ManeeshJupalle/ManeeshJupalle/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## Profile Summary
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=github_dark" />
-
-<br><br>
-
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManeeshJupalle&theme=github_dark" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManeeshJupalle&theme=github_dark" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeeshJupalle&theme=github_dark&utcOffset=-5" />
 
 </div>
 
