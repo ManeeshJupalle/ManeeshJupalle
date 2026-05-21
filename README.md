@@ -65,78 +65,7 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeeshJupalle&theme=github_dark&utcOffset=-5" />
 
 </div>
-
 ---
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### Golden Bridge  
-**AI-powered emergency triage system**
-
-- 1st place winning healthcare AI project
-- Real-time vitals monitoring
-- Multi-agent triage workflow
-- Built with FastAPI, WebSockets, LangChain
-
-<a href="https://github.com/ManeeshJupalle/golden-bridge">
-  <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github"/>
-</a>
-
-</td>
-<td width="50%">
-
-### Insurease  
-**RAG-based insurance document analysis platform**
-
-- Compares complex insurance policies
-- Uses vector search and knowledge graphs
-- Built with Python, Qdrant, Neo4j
-
-<a href="https://github.com/ManeeshJupalle/insurease">
-  <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ResearchAI  
-**AI academic research assistant**
-
-- Paper summarization
-- Interactive research Q&A
-- Full-stack LLM-powered research workflow
-
-<a href="https://github.com/ManeeshJupalle/research-ai">
-  <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github"/>
-</a>
-
-</td>
-<td width="50%">
-
-### Diabetic Retinopathy Detection  
-**Medical imaging AI system**
-
-- CNN-based disease classification
-- Achieved **94.5% accuracy**
-- Focused on healthcare AI applications
-
-<a href="https://github.com/ManeeshJupalle/diabetic-retinopathy">
-  <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -155,25 +84,4 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git&theme=dark" />
 
 </div>
-
 ---
-
-## Let's Connect
-
-<div align="center">
-
-Open to AI/ML research collaborations, software engineering roles, healthcare AI projects, and applied LLM systems.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/laxmi-sai-maneesh-reddy-j-a52935106/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:Ljupal@uic.edu">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://buildwithmaneesh.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-</div>
