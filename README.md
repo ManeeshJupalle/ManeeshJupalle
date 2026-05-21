@@ -65,7 +65,7 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeeshJupalle&theme=github_dark&utcOffset=-5" />
 
 </div>
----
+
 ## Tech Stack
 
 <div align="center">
@@ -84,4 +84,4 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git&theme=dark" />
 
 </div>
----
+
