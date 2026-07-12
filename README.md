@@ -36,13 +36,7 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 ## Contribution Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&theme=github-compact&hide_border=true&area=true" />
-
-<br><br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=github_dark" />
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=github_dark" />
 </div>
 
 ---
@@ -50,38 +44,21 @@ Building intelligent healthcare systems, applied AI products, and full-stack res
 ## GitHub Analytics
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=github_dark&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshJupalle&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeshJupalle&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManeeshJupalle&theme=github_dark" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManeeshJupalle&theme=github_dark" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeeshJupalle&theme=github_dark&utcOffset=-5" />
-
+  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" align="top" src="https://streak-stats.demolab.com/?user=ManeeshJupalle&theme=github-dark-blue&hide_border=true" />
 </div>
+
+---
 
 ## Tech Stack
 
 <div align="center">
-
-### Languages  
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
-
-<br><br>
-
-### AI, Backend & Cloud  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,nodejs,docker,aws,gcp,kubernetes&theme=dark" />
-
-<br><br>
-
-### Databases & Tools  
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git&theme=dark" />
-
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
+  <br><br>
+  <strong>AI, Backend & Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,nodejs,docker,aws,gcp,kubernetes&theme=dark" />
+  <br><br>
+  <strong>Databases & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,redis,git&theme=dark" />
 </div>
-
