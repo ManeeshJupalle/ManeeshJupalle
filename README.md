@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshJupalle&theme=github_dark" />
-  <br><br>
-  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ManeeshJupalle&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" align="top" src="https://streak-stats.demolab.com/?user=ManeeshJupalle&theme=github-dark-blue&hide_border=true" />
-</div>
 
 <!-- Contribution snake animation (requires the GitHub Action — see snake.yml) -->
 <div align="center">
