@@ -45,52 +45,6 @@ maneesh = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/ManeeshJupalle/Auricle">Auricle</a></h3>
-      <p>Local-first meeting engine + desktop copilot. One Rust binary with two-channel capture, real-time transcription on swappable STT backends, and screen-aware answers over a REST/WebSocket API.</p>
-      <code>Rust</code> <code>Real-time STT</code> <code>REST · WS</code> <code>MIT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/ManeeshJupalle/Hirecraft">Hirecraft</a></h3>
-      <p>AI-powered career platform for job seekers, built on Claude.</p>
-      <code>Claude API</code> <code>LLM apps</code> <code>Career tech</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔁 <a href="https://uicloop.com">UIC Loop</a></h3>
-      <p>UIC-only student app, live at uicloop.com. @uic.edu sign-in via Microsoft & Google OAuth, plus one jobs feed pulling from UIC Jobs, Handshake and more.</p>
-      <code>Live</code> <code>OAuth</code> <code>Job aggregation</code>
-    </td>
-    <td width="50%" valign="top">
-      <!-- TODO: replace link with the Sentinel MCP repo -->
-      <h3>🛡️ <a href="https://github.com/ManeeshJupalle?tab=repositories">Sentinel MCP</a></h3>
-      <p>Zero-config MCP server for codebase health analysis — plug it into your AI coding agent and go.</p>
-      <code>MCP</code> <code>Code health</code> <code>Zero-config</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <!-- TODO: replace link with the Synapse repo -->
-      <h3>🧠 <a href="https://github.com/ManeeshJupalle?tab=repositories">Synapse</a></h3>
-      <p>Privacy-first Chrome extension that turns your browsing into a local knowledge graph using on-device embeddings.</p>
-      <code>Chrome Extension</code> <code>On-device ML</code> <code>Knowledge graph</code>
-    </td>
-    <td width="50%" valign="top">
-      <!-- TODO: replace link with the Pantry Pilot repo / Devpost page -->
-      <h3>🥫 <a href="https://github.com/ManeeshJupalle?tab=repositories">Pantry Pilot</a></h3>
-      <p>Pantry & meal-planning MCP server for Alexa+, built for Amazon's Build, Ship, Shape Developer Hackathon.</p>
-      <code>MCP</code> <code>Alexa+</code> <code>Hackathon</code>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -113,28 +67,6 @@ maneesh = {
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-1F2328?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ManeeshJupalle&hide_border=true&background=0D1117&stroke=30363D&ring=8E2DE2&fire=8E2DE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ManeeshJupalle&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=8E2DE2&fire=8E2DE2&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=57606A" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ManeeshJupalle&hide_border=true" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&bg_color=0D1117&color=58A6FF&title_color=58A6FF&line=8E2DE2&point=FFFFFF&area=true&area_color=8E2DE2&hide_border=true&custom_title=Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&bg_color=FFFFFF&color=0A66C2&title_color=0A66C2&line=8E2DE2&point=4A00E0&area=true&area_color=8E2DE2&hide_border=true&custom_title=Contribution%20Graph" />
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ManeeshJupalle&hide_border=true&area=true" width="100%" />
-</picture>
 
 </div>
 
