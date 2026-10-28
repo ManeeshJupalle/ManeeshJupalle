@@ -5,7 +5,7 @@
 
 <!-- Animated typing subtitle (same words as before, now cycling) -->
 <a href="https://buildwithmaneesh.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher;Software+Engineer;MS+Computer+Science+%40+UIC;Building+intelligent+healthcare+systems;Applied+AI+products+%26+research+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher;Software+Engineer;MS+Computer+Science+%40+UIC;Building+intelligen+systems;Applied+AI+products+%26+research+tools" alt="Typing SVG" />
 </a>
 
 <br>
